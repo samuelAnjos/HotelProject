@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1618582268 source:c:\users\ikaru\onedrive\documentos\codblocksprojects\projetohotel\projetohotel\funcionario(principal).cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<conio2.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<iomanip>
+	"funcionario.h"
+	"login.h"
+	"tela.h"
+	"Qblibioteca.h"
+
+1618582751 c:\users\ikaru\onedrive\documentos\codblocksprojects\projetohotel\projetohotel\funcionario.h
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string.h>
+
+1618582782 c:\users\ikaru\onedrive\documentos\codblocksprojects\projetohotel\projetohotel\login.h
+
+1618582807 c:\users\ikaru\onedrive\documentos\codblocksprojects\projetohotel\projetohotel\tela.h
+	<iostream>
+
+1618582836 c:\users\ikaru\onedrive\documentos\codblocksprojects\projetohotel\projetohotel\qblibioteca.h
+	"tela.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio2.h>
+	<locale.h>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<string>
+	"clientes.h"
+
+1618582705 c:\users\ikaru\onedrive\documentos\codblocksprojects\projetohotel\projetohotel\clientes.h
+	<iostream>
+	<locale.h>
+	<fstream>
+	<stdio.h>
+	<sstream>
+	<time.h>
+
