@@ -1,2 +1,2 @@
-# ProjetoHotel
-Projeto feito para a segunda avaliação na matéria de P2 (SI)
+# Hotel project
+Project made for the second evaluation on the sunject of programation two.
